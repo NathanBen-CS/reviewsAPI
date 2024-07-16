@@ -3,18 +3,18 @@
     "Speed",
     "Turbo",
     "Classic",
-    "Adrenaline",
+    "Adrenaline"
   ],
    "suffixes": [
     "X",
     "GT",
     "RS",
-    "Turbo",
+    "Turbo"
   ],
   "comments": [
         {"id": 1, "username": "SpeedDemon", "rating": 5, "comment": "So much fun! Can't stop playing!"},
         {"id": 1, "username": "SpeedDemon", "rating": 5, "comment": "So much fun! Can't stop playing!"},
         {"id": 2, "username": "TurboDriver", "rating": 4, "comment": "Great mechanics, but wish it was longer."},
-        {"id": 3, "username": "ClassicGamer", "rating": 3, "comment": "Not bad, but gets repetitive after a while."},
+        {"id": 3, "username": "ClassicGamer", "rating": 3, "comment": "Not bad, but gets repetitive after a while."}
     ]
 }
