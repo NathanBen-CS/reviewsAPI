@@ -346,6 +346,19 @@
   ],
   "comments": [
         {"id": 1, "username": "SpeedDemon", "rating": 5, "comment": "So much fun! Can't stop playing!"},
-        
+        {"id": 1, "username": "SpeedDemon", "rating": 5, "comment": "So much fun! Can't stop playing!"},
+        {"id": 2, "username": "TurboDriver", "rating": 4, "comment": "Great mechanics, but wish it was longer."},
+        {"id": 3, "username": "ClassicGamer", "rating": 3, "comment": "Not bad, but gets repetitive after a while."},
+        {"id": 4, "username": "AdrenalineJunkie", "rating": 5, "comment": "Love the rising speed challenge!"},
+        {"id": 5, "username": "AutoEnthusiast", "rating": 4, "comment": "The variety of cars is fantastic!"},
+        {"id": 6, "username": "CrashTestDummy", "rating": 2, "comment": "Too hard! I keep crashing."},
+        {"id": 7, "username": "DevGamer2023", "rating": 5, "comment": "Impressive use of XNA! Well done!"},
+        {"id": 8, "username": "AchievementSeeker", "rating": 4, "comment": "The achievements keep me motivated!"},
+        {"id": 9, "username": "FamilyFun", "rating": 5, "comment": "Perfect for family game nights!"},
+        {"id": 10, "username": "OccasionalPlayer", "rating": 3, "comment": "It’s fun, but could use more content."},
+        {"id": 11, "username": "CodeWhiz", "rating": 5, "comment": "Love the programming behind this!"},
+        {"id": 12, "username": "RelaxedGamer", "rating": 4, "comment": "Fun for a quick session after work."},
+        {"id": 13, "username": "SpeedsterX", "rating": 2, "comment": "It’s okay, but I expected more variety."},
+        {"id": 14, "username": "EpicFails", "rating": 3, "comment": "I explode way too often!"}
     ]
 }
